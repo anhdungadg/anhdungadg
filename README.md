@@ -1,4 +1,4 @@
-### Hi there 👋
+### Tà tà kiếm cơm 👋
 
 <!--
 **anhdungadg/anhdungadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
