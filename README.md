@@ -1,15 +1,15 @@
 # Tà tà kiếm cơm 👋
 
 <h2> Hi, I'm Dung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="https://giphy.com/embed/UPqYp2tj61XlBhlPbH" width="230">
 <p>I am an AWS SAA Certified with hands-on experience in building modern web applications and
 serverless architectures on AWS cloud infrastructure. In a startup environment, I successfully leveraged
 AWS services, receiving funding from AWS Activate to support the project development.
-<br>
+<br><br>
 I have extensive experience in the telco industry, including the software development life cycle, legacy
 systems, and collaborating with non-technical users for digitization. I can play in both independent
 projects and teamwork, focusing on solving business challenges through technology and cloud computing.
-<br>
+<br><br>
 Aside from work, I am also a community builder with a passion for sharing technological knowledge
 through webinars, blogs, or tech talks.</p>
 
