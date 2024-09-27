@@ -2,7 +2,8 @@
 
 <h2> Hi, I'm Dung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo4OGdmeGp1a3EzYmVscWFhMHR5b3p3Mmx0eWhiNm5vZWFla3FleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif" width="230">
-<p>I am an AWS SAA Certified with hands-on experience in building modern web applications and
+<p>
+  I am an AWS SAA Certified with hands-on experience in building modern web applications and
 serverless architectures on AWS cloud infrastructure. In a startup environment, I successfully leveraged
 AWS services, receiving funding from AWS Activate to support the project development.
 <br><br>
@@ -10,8 +11,8 @@ I have extensive experience in the telco industry, including the software develo
 systems, and collaborating with non-technical users for digitization. I can play in both independent
 projects and teamwork, focusing on solving business challenges through technology and cloud computing.
 <br><br>
-Aside from work, I am also a community builder with a passion for sharing technological knowledge
-through webinars, blogs, or tech talks.</p>
+Aside from work, I am also a developer advocate with a passion for sharing technological knowledge through webinars, blogs, or tech talks. Additionally, I enjoy photography as a hobby.
+</p>
 
 [![Twitter: ThaiiBraga](https://img.shields.io/twitter/follow/anhdungadg?style=social)](https://twitter.com/anhdungadg)
 
