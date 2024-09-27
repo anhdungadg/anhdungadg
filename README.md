@@ -25,9 +25,8 @@ const dung = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
   techCommunities: {
-                        coorganizer: "AfroPython",
-                        speaker: "Latinity",
-                        mentor: "RailsGirls POA"
+                        coorganizer: "Vietnam MongoDB User Group (VMUG)",
+                        mentor: "xTer - Sinh viên FUNiX"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
@@ -37,7 +36,7 @@ const dung = {
 
 ---
 
-⭐️ From [@Thaiane](https://github.com/Thaiane)
+⭐️ From [@anhdungadg](https://github.com/anhdungadg)
 
 <!--
 **anhdungadg/anhdungadg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
