@@ -3,7 +3,7 @@
 <h2> Hi, I'm Dung! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHo4OGdmeGp1a3EzYmVscWFhMHR5b3p3Mmx0eWhiNm5vZWFla3FleiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UPqYp2tj61XlBhlPbH/giphy.gif" width="230">
 <p>
-  I am an AWS SAA Certified with hands-on experience in building modern web applications and
+  I am an Solutions Architect with hands-on experience in building modern web applications and
 serverless architectures on AWS cloud infrastructure. In a startup environment, I successfully leveraged
 AWS services, receiving funding from AWS Activate to support the project development.
 <br><br>
